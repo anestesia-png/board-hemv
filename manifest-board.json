@@ -2,7 +2,7 @@
   "name": "Board Quirúrgico – FCV UBA",
   "short_name": "Board Cx",
   "description": "Calendario semanal de cirugías – Unidad de Anestesiología y Algiología, Facultad de Ciencias Veterinarias UBA",
-  "start_url": "./board.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "orientation": "landscape",
   "background_color": "#0d2e20",
