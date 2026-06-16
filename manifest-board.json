@@ -4,7 +4,7 @@
   "description": "Calendario semanal de cirugías – Unidad de Anestesiología y Algiología, Facultad de Ciencias Veterinarias UBA",
   "start_url": "./index.html",
   "display": "standalone",
-  "orientation": "landscape",
+  "orientation": "any",
   "background_color": "#0d2e20",
   "theme_color": "#0d2e20",
   "lang": "es",
